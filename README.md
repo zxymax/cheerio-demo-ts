@@ -1,2 +1,6 @@
-# cheerio-demo-ts
-cheerio typescript demo
+#cheerio typescript demo
+
+- pnpm install cheerio
+- pnpm install @types/cheerio
+
+
